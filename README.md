@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Kauã] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Kauã Henry Matias de Lima</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
